@@ -1,0 +1,4 @@
+<routes>
+    <vType id="car" accel="1.0" decel="1.0" sigma="0.5" length="5" minGap="2.5" maxSpeed="25"/>
+    <vType id="slowTruck" accel="0.6" decel="0.8" sigma="0.5" length="10" minGap="2.5" maxSpeed="20"/>
+</routes>
